@@ -27,6 +27,9 @@ As driven Computer Science student located in Pennsylvania with a strong interes
 
 I believe in the power of early detection and its potential to transform healthcare. Join me in this journey towards a world where everyone can have easy access to early diabetes diagnosis and treatment.
 
+### **Story behind this Project** 
+I got the inspiration of this project from CareYaya was able to deeply connect with the issue as my own grandfather passed away three years ago due to Kidney Failure which was caused due to Diabetes Type 2. Listening to Neal K. Shah I was deeply moved and wanted to build a solution to this problem. 
+
 ### **Contact Us**
 Email: Kartikeypandey.official@gmail.com 
 
