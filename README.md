@@ -8,6 +8,7 @@ Welcome to the future of healthcare, where your smartphone becomes your guardian
 
 About Diabetic Retinopathy
 Diabetic retinopathy is a serious eye condition that affects individuals with diabetes. It can lead to vision problems and even blindness if left untreated. This single-page website aims to provide a clear and concise explanation of diabetic retinopathy. 
+
 Training Dataset : https://www.kaggle.com/competitions/aptos2019-blindness-detection/data
 
 ### **Key Components**
