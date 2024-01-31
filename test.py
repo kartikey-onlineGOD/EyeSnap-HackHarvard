@@ -8,7 +8,7 @@ loaded_model = joblib.load("logistic_regression_model.pkl")
 # Load the image
 path_bad = 'verify/badeye.png'
 path_good = 'verify/goodeye.png'
-image = cv2.imread(path_bad)
+image = cv2.imread(path_good)
 
 
 # Convert the image to grayscale
